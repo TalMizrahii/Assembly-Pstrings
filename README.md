@@ -1,10 +1,8 @@
-# Assembly-Pstrings - Computer Systems course
-
 
 <h1 align="center">
   
-
-  Computer Systems
+<br>
+  Assembly-Pstrings - Computer Systems course
   <br>
 </h1>
 
