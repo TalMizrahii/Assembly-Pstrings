@@ -1,4 +1,3 @@
-#206960890 Tal Mizrahi
 
     .section	.rodata	   # Read only data section	
 rabak:			.string 	"|%d|\n"
