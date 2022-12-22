@@ -1,4 +1,4 @@
-#206960890 Tal Mizrahi
+
 
     .section	.rodata	#read only data section
 	
