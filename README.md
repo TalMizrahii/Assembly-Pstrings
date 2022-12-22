@@ -53,7 +53,7 @@ The program is made of 3 files:
  
  ![37](https://user-images.githubusercontent.com/103560553/208877270-289d9512-e9b3-422d-a8c3-3f7b5fd32fc4.PNG)
 
-If any other choice of case is made, the program will print "invalid option!"
+If any other choice of case was made, the program will print "invalid option!"
  
 ## Installing And Executing
 
@@ -61,22 +61,17 @@ To clone and run this application, you'll need to use [Git](https://git-scm.com)
 
 ```bash
 # Clone this repository.
-$ git clone https://github.com/TalMizrahii/Ex2ComputerSystems
+$ git clone https://github.com/TalMizrahii/Assembly-Pstrings
 
 # Go into the repository.
-$ cd Ex2ComputerSystems
+$ cd Assembly-Pstrings
 
 # Compile the program.
-$ gcc main.s
+$ gcc run_main.s func_select.s pstring.s
 
 # Run the program (Linux).
 $ ./a.out
 ```
-```bash
-# Run the program (Windows).
-$ a.out
-```
-
 
 ## Author
 * [@Tal Mizrahi](https://github.com/TalMizrahii)
