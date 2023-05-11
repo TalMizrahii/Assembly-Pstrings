@@ -21,9 +21,13 @@ This is my second assembly project for the Computer Systems course at Bar Ilan u
 
 The project's purpose is to practice more advanced assembly concepts. It focuses on the pstrings manipulations and information. 
 
-pstring is a struct that contains a string and its length.  
+pstring is a struct that contains a string and its length,  
 
 ![ps](https://user-images.githubusercontent.com/103560553/208872555-2f3b3659-a735-4d6c-af65-82059009456e.PNG)
+
+Which will be stored in the memory as follow:
+
+<img width="127" alt="pStringMem" src="https://user-images.githubusercontent.com/106544582/237052461-69eadeb1-7127-4718-9a3e-0bc203e5589d.png">
 
 
 The program is made of 3 files:
