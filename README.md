@@ -1,8 +1,9 @@
 
 <h1 align="center">
   
-<br>
-  Assembly-Pstrings - Computer Systems course
+  <br>
+<img width="200" alt="pStringMem" src="https://github.com/TalMizrahii/Assembly-Pstrings/assets/103560553/cc350fec-e689-4cd4-bdac-b3986187c914">
+
   <br>
 </h1>
 
